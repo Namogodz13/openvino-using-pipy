@@ -5,6 +5,6 @@ to open :
     2.rename the redirect url to "cmd"
     3.run command(command promp only) "py -m jupyter lab"
 #==========================================================
-to download :
-    "py -m pip install -r requirement.txt
+to download requirement :
+    "py -m pip install -r requirement.txt"
 #==========================================================
