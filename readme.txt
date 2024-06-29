@@ -7,4 +7,6 @@ to open :
 #==========================================================
 to download requirement :
     "py -m pip install -r requirement.txt"
+    "pip install jupyterlab"
+    "py -m pip install jupyterlab"
 #==========================================================
